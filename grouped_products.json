@@ -1,8 +1,16 @@
 {
-  "Japonia": {
-    "Wół Pociągowy Czeladnika": 0,
-    "Nasiona Marchwi": 151,
-    "Dżdżownica": 40,
-    "Marchewki": 2532
-  }
+  "Japonia": [
+    {
+      "Przedmiot": "Nasiona Marchwi",
+      "Ilość": 151
+    },
+    {
+      "Przedmiot": "Dżdżownica",
+      "Ilość": 40
+    },
+    {
+      "Przedmiot": "Marchewki",
+      "Ilość": 2532
+    }
+  ]
 }
